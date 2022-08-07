@@ -1,0 +1,25 @@
+///?ROLES///////
+UI/UX  --Prahlad
+
+coding    all
+
+HR -- Vishal
+
+website handler  --Adamaya
+exposure handler(social media) --Vishal
+
+//////////////////////////
+idea  --all
+resource research --Adamya
+UI/UX  --Prahlad
+extra design  --Rijan
+components --all
+
+testing and debugging --any 2
+report --bugreport and testing .xlsx
+
+improvement  --non tester+tester
+
+finishing --any one
+exposure --website Adamaya
+////////////////////////////
