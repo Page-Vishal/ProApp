@@ -1,0 +1,6 @@
+﻿  MainInterface.cpp
+  Welcome.cpp
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\Welcome.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AboutNH.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProApp.vcxproj -> C:\Users\user\Desktop\ProApp\ProApp\x64\Debug\ProApp.exe

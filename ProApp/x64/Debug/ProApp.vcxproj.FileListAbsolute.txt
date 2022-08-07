@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.MainInterface.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.Welcome.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.ColorPick.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.TimerApp.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.todoh.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.Note.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.Counter.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.Calculator.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.AboutProApp.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.AboutNH.resources
+C:\Users\user\Desktop\ProApp\ProApp\ProApp\x64\Debug\ProApp.ErrorS.resources
